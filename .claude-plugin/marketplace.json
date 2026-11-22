@@ -1,0 +1,1 @@
+{ "name": "working-indicator-local", "owner": { "name": "Gigliuz" }, "plugins": [{ "name": "working-indicator", "source": "./" }] }

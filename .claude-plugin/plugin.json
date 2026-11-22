@@ -1,0 +1,6 @@
+{
+  "name": "working-indicator",
+  "version": "0.1.0",
+  "description": "Mostra uno spinner sopra il prompt mentre Claude sta elaborando",
+  "types": "./types/index.d.ts"
+}
